@@ -1,0 +1,18 @@
+/*
+* Ze Li, zli48, 676755673, AlphaBeta pruning
+*/
+
+Initial State 1:
+String s = "b O b b X b b b b”;
+Alpha Beta:	228		
+Minimax:	3793
+
+Initial State 2:
+String s = "b X b b O b b b b";
+Alpha Beta:	367
+Minimax:	4293
+
+Initial State 3:
+String s = "X X b O O b b b b";
+Alpha Beta:	23
+Minimax:	83
